@@ -66,7 +66,7 @@ Keeping a ring of last four daily table updates
       ROLLING_4_DAY_WEIGHT_LOSS     This is Fri Feb 3, 2020      213        0  * most recent;
       ROLLING_4_DAY_WEIGHT_LOSS     This is Thu Feb 2, 2020      216       -1
       ROLLING_4_DAY_WEIGHT_LOSS     This is Wed Feb 1, 2020      219       -2
-      ROLLING_4_DAY_WEIGHT_LOSS     This is Tue Jan 31, 202      220       -3
+      ROLLING_4_DAY_WEIGHT_LOSS     This is Tue Jan 31,2020      220       -3
     */
 
     *            _               _
@@ -79,7 +79,7 @@ Keeping a ring of last four daily table updates
 
     RULE
 
-      Remove table with Jan 31,2010 and make Feb th the most recent
+      Remove table with Jan 31,2010 and make Feb 4th the most recent
 
      WORK.WANT total obs=4
 
