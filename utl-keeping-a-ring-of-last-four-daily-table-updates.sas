@@ -77,7 +77,7 @@ WORK.HAVE total obs=4
 
 RULE
 
-  Remove table with Jan 31,2010 and make Feb th the most recent
+  Remove table with Jan 31,2010 and make Feb 4th the most recent
 
  WORK.WANT total obs=4
 
